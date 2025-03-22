@@ -45,7 +45,7 @@
     "Português BR (nativo)",
     "Inglês (avançado)"    
   ],
-  "portfolio": [
+  "projects": [
     {
       "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
       "url": "https://github.com/llucaslleandro/pokedex",
