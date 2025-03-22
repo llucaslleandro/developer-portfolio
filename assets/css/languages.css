@@ -21,7 +21,7 @@
     content: '';
     width: .7rem;
     height: .7rem;
-    background-image: url('assets/imgs/icons/language.svg');
+    background-image: url('/assets/imgs/icons/language.svg');
     background-repeat: no-repeat;
     background-size: contain;
     margin-right: .5rem;

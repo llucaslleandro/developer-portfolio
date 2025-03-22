@@ -38,7 +38,7 @@ a:hover {
     width: 45rem;
     height: 45rem;
     background-size: contain;
-    background-image: url(assets/imgs/background-top.svg);
+    background-image: url('/assets/imgs/background-top.svg');
     position: fixed;
     top: -50rem;
     left: -50rem;
@@ -52,7 +52,7 @@ a:hover {
     width: 65rem;
     height: 65rem;
     background-size: contain;
-    background-image: url(assets/imgs/background-bottom.svg);
+    background-image: url('/assets/imgs/background-bottom.svg');
     position: fixed;
     top: -65rem;
     bottom: 64rem;
