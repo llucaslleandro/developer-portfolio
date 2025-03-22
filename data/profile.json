@@ -57,21 +57,17 @@
       "github": true
     }
   ],
-  "professionalExperience": [
+  "experiences": [
     {
-      "name": "Arquiteto de software / S3 BANK",
+      "name": "CEO & CFO / Grupo Tribus",
       "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "description": " Atuo na captação de clientes, estruturação de funis de vendas e otimização de processos para crescimento sustentável. Além disso, cuido da gestão financeira, análise de investimentos e planejamento de longo prazo, garantindo a eficiência operacional e a tomada de decisões assertivas"
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Internet Marketer",
+      "period": "2021 - até o momento",
+      "description": "Internet Marketer especializado na criação e venda de infoprodutos. Trabalho com estratégias de funil de vendas, tráfego pago, copywriting e automação para maximizar conversões. Tenho experiência em lançamentos de cursos online, mentorias, e-books e assinaturas, estruturando campanhas escaláveis para atrair e fidelizar clientes."
     },
-    {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
-    }
+    
   ]
 }
