@@ -1,4 +1,5 @@
-.portfolio {
+
+.projects {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
@@ -8,30 +9,31 @@
     list-style: none;
 }
 
-.portfolio li {
+.projects li {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
     margin: 1rem 0;
 }
 
-.portfolio li h3 {
+.projects li h3 {
     display: flex;
     flex-direction: row;
     align-items: center;
     font-size: 1.25rem;
-    font-weight: 700;
-    margin: 0;
+    font-weight: 500;
+    margin: 0rem;
     margin-bottom: .5rem;
 }
 
-.portfolio li h3.github::before {
-    content: "";
+.projects li h3.github::before {
+    content: '';
     display: inline-block;
+    margin-right: .5rem;
     width: 1rem;
     height: 1rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('../img/icons/github.svg');
-    margin-right: .5rem;
+    background-image: url("assets/imgs/icons/github.svg");
+    transition: .25s ease-in-out;
 }

@@ -4,9 +4,9 @@ footer {
     flex-direction: row;
     justify-content: flex-end;
     align-items: center;
-    padding: 1rem;
+    
 }
 
 footer img {
-    max-width: 100px;
+    max-width: 4rem;
 }
