@@ -47,12 +47,12 @@
   ],
   "projects": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+      "name": "Página de consulta da Pokedex",
       "url": "https://github.com/llucaslleandro/pokedex",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de filmes do Universo Spider-Man",
+      "name": "Página de filmes do Universo Spider-Man",
       "url": "https://github.com/llucaslleandro/multiverse-spider-man",
       "github": true
     }
